@@ -1,2 +1,3 @@
-# usbasp
-My repo for experimenting with the usbasp firmware from www.fischl.de
+# notetoself
+
+Use 1.0a branch, firmware in there
